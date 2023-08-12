@@ -1,0 +1,107 @@
+Symbol : RELIANCE
+DateOfStartOfFinancialYear : 2019-04-01
+DateOfEndOfFinancialYear : 2020-03-31
+DateOnWhichPriorIntimationOfTheMeetingForConsideringFinancialResultsWasInformedToTheExchange : 2019-07-10
+DescriptionOfPresentationCurrency : INR
+LevelOfRoundingUsedInFinancialStatements : Crores
+ReportingQuarter : First quarter
+IsCompanyReportingMultisegmentOrSingleSegment : Multi segment
+DateOfStartOfReportingPeriod : 2019-04-01
+DateOfEndOfReportingPeriod : 2019-06-30
+WhetherResultsAreAuditedOrUnaudited : Unaudited
+NatureOfReportStandaloneConsolidated : Consolidated
+RevenueFromOperations : 1613490000000.00
+OtherIncome : 31460000000.00
+Income : 1644950000000.00
+CostOfMaterialsConsumed : 709390000000.00
+PurchasesOfStockInTrade : 436590000000.00
+ChangesInInventoriesOfFinishedGoodsWorkInProgressAndStockInTrade : -46420000000.00
+EmployeeBenefitExpense : 33350000000.00
+FinanceCosts : 51090000000.00
+DepreciationDepletionAndAmortisationExpense : 50110000000.00
+OtherExpenses : 267430000000.00
+Expenses : 1501540000000.00
+ProfitBeforeExceptionalItemsAndTax : 143410000000.00
+ExceptionalItemsBeforeTax : 0.00
+ProfitBeforeTax : 143410000000.00
+CurrentTax : 31930000000.00
+DeferredTax : 10320000000.00
+TaxExpense : 42250000000.00
+NetMovementInRegulatoryDeferralAccountBalancesRelatedToProfitOrLossAndTheRelatedDeferredTaxMovement : 0.00
+ProfitLossForPeriodFromContinuingOperations : 101160000000.00
+ProfitLossFromDiscontinuedOperationsBeforeTax : 0.00
+TaxExpenseOfDiscontinuedOperations : 0.00
+ProfitLossFromDiscontinuedOperationsAfterTax : 0.00
+ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod : 250000000.00
+ProfitLossForPeriod : 101410000000.00
+OtherComprehensiveIncomeNetOfTaxes : -810000000.00
+ComprehensiveIncomeForThePeriod : 100600000000.00
+ProfitOrLossAttributableToOwnersOfParent : 101040000000.00
+ProfitOrLossAttributableToNonControllingInterests : 370000000.00
+ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent : 100280000000.00
+ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests : 320000000.00
+PaidUpValueOfEquityShareCapital : 59260000000.00
+FaceValueOfEquityShareCapital : 10
+BasicEarningsLossPerShareFromContinuingOperations : 17.05
+DilutedEarningsLossPerShareFromContinuingOperations : 17.05
+BasicEarningsLossPerShareFromDiscontinuedOperations : 0.00
+DilutedEarningsLossPerShareFromDiscontinuedOperations : 0.00
+BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations : 17.05
+DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations : 17.05
+DescriptionOfOtherExpenses : Excise Duty
+OtherExpenses : 43730000000.00
+DescriptionOfOtherExpenses : Other Expenses
+OtherExpenses : 223700000000.00
+DescriptionOfReportableSegment : Digital Services
+SegmentRevenue : 149100000000.00
+DescriptionOfReportableSegment : Oil and Gas
+SegmentRevenue : 9230000000.00
+DescriptionOfReportableSegment : Organised Retail
+SegmentRevenue : 381960000000.00
+DescriptionOfReportableSegment : Others
+SegmentRevenue : 107870000000.00
+DescriptionOfReportableSegment : Petrochemicals
+SegmentRevenue : 376110000000.00
+DescriptionOfReportableSegment : Refining
+SegmentRevenue : 1017210000000.00
+InterSegmentRevenue : 311920000000.00
+DescriptionOfReportableSegment : Digital Services
+SegmentProfitLossBeforeTaxAndFinanceCosts : 30800000000.00
+DescriptionOfReportableSegment : Oil and Gas
+SegmentProfitLossBeforeTaxAndFinanceCosts : -2490000000.00
+DescriptionOfReportableSegment : Organised Retail
+SegmentProfitLossBeforeTaxAndFinanceCosts : 17770000000.00
+DescriptionOfReportableSegment : Others
+SegmentProfitLossBeforeTaxAndFinanceCosts : 4830000000.00
+DescriptionOfReportableSegment : Petrochemicals
+SegmentProfitLossBeforeTaxAndFinanceCosts : 75080000000.00
+DescriptionOfReportableSegment : Refining
+SegmentProfitLossBeforeTaxAndFinanceCosts : 45080000000.00
+SegmentFinanceCosts : 51090000000.00
+OtherUnallocableExpenditureNetOffUnAllocableIncome : -23680000000.00
+DescriptionOfReportableSegment : Digital Services
+SegmentAssets : 3659420000000.00
+DescriptionOfReportableSegment : Oil and Gas
+SegmentAssets : 366320000000.00
+DescriptionOfReportableSegment : Organised Retail
+SegmentAssets : 341510000000.00
+DescriptionOfReportableSegment : Others
+SegmentAssets : 888460000000.00
+DescriptionOfReportableSegment : Petrochemicals
+SegmentAssets : 1268210000000.00
+DescriptionOfReportableSegment : Refining
+SegmentAssets : 2224470000000.00
+UnAllocableAssets : 1522800000000.00
+DescriptionOfReportableSegment : Digital Services
+SegmentLiabilities : 1706540000000.00
+DescriptionOfReportableSegment : Oil and Gas
+SegmentLiabilities : 411680000000.00
+DescriptionOfReportableSegment : Organised Retail
+SegmentLiabilities : 243260000000.00
+DescriptionOfReportableSegment : Others
+SegmentLiabilities : 187380000000.00
+DescriptionOfReportableSegment : Petrochemicals
+SegmentLiabilities : 212200000000.00
+DescriptionOfReportableSegment : Refining
+SegmentLiabilities : 1373340000000.00
+UnAllocableLiabilities : 6136790000000.00
