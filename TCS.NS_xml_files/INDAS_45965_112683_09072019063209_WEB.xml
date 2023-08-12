@@ -1,0 +1,101 @@
+Symbol : TCS
+DateOfStartOfFinancialYear : 2019-04-01
+DateOfEndOfFinancialYear : 2020-03-31
+DateOnWhichPriorIntimationOfTheMeetingForConsideringFinancialResultsWasInformedToTheExchange : 2019-06-28
+DescriptionOfPresentationCurrency : INR
+LevelOfRoundingUsedInFinancialStatements : Crores
+ReportingQuarter : First quarter
+IsCompanyReportingMultisegmentOrSingleSegment : Multi segment
+DateOfStartOfReportingPeriod : 2019-04-01
+DateOfEndOfReportingPeriod : 2019-06-30
+WhetherResultsAreAuditedOrUnaudited : Audited
+NatureOfReportStandaloneConsolidated : Consolidated
+RevenueFromOperations : 381720000000.00
+OtherIncome : 16750000000.00
+Income : 398470000000.00
+CostOfMaterialsConsumed : 0.00
+PurchasesOfStockInTrade : 0.00
+ChangesInInventoriesOfFinishedGoodsWorkInProgressAndStockInTrade : 0.00
+EmployeeBenefitExpense : 208090000000.00
+FinanceCosts : 2570000000.00
+DepreciationDepletionAndAmortisationExpense : 8170000000.00
+OtherExpenses : 73260000000.00
+Expenses : 292090000000.00
+ProfitBeforeExceptionalItemsAndTax : 106380000000.00
+ExceptionalItemsBeforeTax : 0.00
+ProfitBeforeTax : 106380000000.00
+CurrentTax : 30340000000.00
+DeferredTax : -5490000000.00
+TaxExpense : 24850000000.00
+NetMovementInRegulatoryDeferralAccountBalancesRelatedToProfitOrLossAndTheRelatedDeferredTaxMovement : 0.00
+ProfitLossForPeriodFromContinuingOperations : 81530000000.00
+ProfitLossFromDiscontinuedOperationsBeforeTax : 0.00
+TaxExpenseOfDiscontinuedOperations : 0.00
+ProfitLossFromDiscontinuedOperationsAfterTax : 0.00
+ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod : 0.00
+ProfitLossForPeriod : 81530000000.00
+OtherComprehensiveIncomeNetOfTaxes : 1920000000.00
+ComprehensiveIncomeForThePeriod : 83450000000.00
+ProfitOrLossAttributableToOwnersOfParent : 81310000000.00
+ProfitOrLossAttributableToNonControllingInterests : 220000000.00
+ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent : 83190000000.00
+ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests : 260000000.00
+PaidUpValueOfEquityShareCapital : 3750000000.00
+FaceValueOfEquityShareCapital : 1
+BasicEarningsLossPerShareFromContinuingOperations : 21.67
+DilutedEarningsLossPerShareFromContinuingOperations : 21.67
+BasicEarningsLossPerShareFromDiscontinuedOperations : 0.00
+DilutedEarningsLossPerShareFromDiscontinuedOperations : 0.00
+BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations : 21.67
+DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations : 21.67
+DescriptionOfOtherExpenses : Cost of equipment and software licenses
+OtherExpenses : 5110000000.00
+DescriptionOfOtherExpenses : Fees to external consultant
+OtherExpenses : 31940000000.00
+DescriptionOfOtherExpenses : Other operating expenses
+OtherExpenses : 36210000000.00
+DescriptionOfReportableSegment : Banking, Financial Services and Insurance
+SegmentRevenue : 149780000000.00
+DescriptionOfReportableSegment : Communication, Media and Technology
+SegmentRevenue : 62360000000.00
+DescriptionOfReportableSegment : Manufacturing
+SegmentRevenue : 40410000000.00
+DescriptionOfReportableSegment : Others
+SegmentRevenue : 64950000000.00
+DescriptionOfReportableSegment : Retail and Consumer Business
+SegmentRevenue : 64220000000.00
+InterSegmentRevenue : 0.00
+DescriptionOfReportableSegment : Banking, Financial Services and Insurance
+SegmentProfitLossBeforeTaxAndFinanceCosts : 40950000000.00
+DescriptionOfReportableSegment : Communication, Media and Technology
+SegmentProfitLossBeforeTaxAndFinanceCosts : 18280000000.00
+DescriptionOfReportableSegment : Manufacturing
+SegmentProfitLossBeforeTaxAndFinanceCosts : 10700000000.00
+DescriptionOfReportableSegment : Others
+SegmentProfitLossBeforeTaxAndFinanceCosts : 13590000000.00
+DescriptionOfReportableSegment : Retail and Consumer Business
+SegmentProfitLossBeforeTaxAndFinanceCosts : 16830000000.00
+SegmentFinanceCosts : 2570000000.00
+OtherUnallocableExpenditureNetOffUnAllocableIncome : -8600000000.00
+DescriptionOfReportableSegment : Banking, Financial Services and Insurance
+SegmentAssets : 0.00
+DescriptionOfReportableSegment : Communication, Media and Technology
+SegmentAssets : 0.00
+DescriptionOfReportableSegment : Manufacturing
+SegmentAssets : 0.00
+DescriptionOfReportableSegment : Others
+SegmentAssets : 0.00
+DescriptionOfReportableSegment : Retail and Consumer Business
+SegmentAssets : 0.00
+UnAllocableAssets : 0.00
+DescriptionOfReportableSegment : Banking, Financial Services and Insurance
+SegmentLiabilities : 0.00
+DescriptionOfReportableSegment : Communication, Media and Technology
+SegmentLiabilities : 0.00
+DescriptionOfReportableSegment : Manufacturing
+SegmentLiabilities : 0.00
+DescriptionOfReportableSegment : Others
+SegmentLiabilities : 0.00
+DescriptionOfReportableSegment : Retail and Consumer Business
+SegmentLiabilities : 0.00
+UnAllocableLiabilities : 0.00
